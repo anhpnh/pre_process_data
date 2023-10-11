@@ -1,0 +1,183 @@
+1
+1000
+2
+2 Dual Motor
+2 Single Motor
+2000 Sunbird
+2000 Sunbird Convertible
+2000 Sunbird Wagon
+6000
+6000 Wagon
+718 Boxster
+718 Boxster GTS
+718 Boxster S
+718 Cayman
+718 Cayman GT4
+718 Cayman GTS
+718 Cayman T
+718 GT4 RS
+718 Spyder
+911
+911 Carrera
+911 Carrera 4
+911 Carrera 4 Cabriolet
+911 Carrera 4 GTS
+911 Carrera 4 GTS Cabriolet
+911 Carrera 4 Targa
+911 Carrera 4/2
+911 Carrera 4S
+911 Carrera 4S Cabriolet
+911 Carrera 4S Targa
+911 Carrera Cabriolet
+911 Carrera GTS
+911 Carrera GTS Cabriolet
+911 Carrera S
+911 Carrera S Cabriolet
+911 Carrera T
+911 GT2
+911 GT2 RS
+911 GT3
+911 GT3 RS
+911 GT3 Touring
+911 GTS
+911 GTS Cabriolet
+911 Speedster
+911 Targa 4
+911 Targa 4 GTS
+911 Targa 4S
+911 Turbo
+911 Turbo Cabriolet
+911 Turbo Coupe
+911 Turbo S
+911 Turbo S Cabriolet
+911 Turbo S Coupe
+924 S
+928 GTS
+928 S
+928 S4
+944
+968
+Acclaim
+Aztek AWD
+Aztek FWD
+Bonneville
+Boxster
+Boxster GTS
+Boxster S
+Boxster Spyder
+Breeze
+Caravelle
+Carrera 2 Cabriolet
+Carrera 2 Cabriolet Kit
+Carrera 2 Coupe
+Carrera 2 Coupe Kit
+Carrera 2 S Cabriolet
+Carrera 2 S Coupe
+Carrera 4 Cabriolet
+Carrera 4 Coupe
+Carrera 4 S Cabriolet
+Carrera 4 S Coupe
+Carrera 4 Targa
+Cayenne
+Cayenne Coupe
+Cayenne Diesel
+Cayenne e-Hybrid Coupe
+Cayenne GTS
+Cayenne S
+Cayenne S Coupe
+Cayenne S e-Hybrid
+Cayenne S Hybrid
+Cayenne Turbo
+Cayman
+Cayman GTS
+Cayman S
+Colt
+Colt Vista
+Colt Vista 4WD
+Colt Wagon
+Conquest
+Fiero
+Firebird
+Firebird/Formula
+Firebird/Trans Am
+Firebird/Trans Am/Formula
+Firefly
+Firefly FE
+G3 (3-Door)
+G3 (5-Door)
+G3 Wave
+G3 Wave 5
+G5
+G5 GT
+G5 XFE
+G5/Pursuit
+G6
+G6 GT/GTP Convertible
+G8
+Gran Fury
+Grand Am
+Grand Prix
+Grand Prix Turbo
+GTO
+Horizon
+Laser
+Lemans
+Macan
+Macan S
+Montana AWD
+Montana FWD
+Montana SV6 FWD
+Monterey Wagon FWD
+Neon
+Panamera
+Panamera 4
+Panamera 4 e-Hybrid
+Panamera 4 e-Hybrid ST
+Panamera 4 Executive
+Panamera 4S
+Panamera 4S Executive
+Panamera GTS
+Panamera GTS ST
+Panamera S
+Panamera Turbo
+Panamera Turbo Executive
+Panamera Turbo S
+Panamera Turbo S e-Hybrid
+Panamera Turbo S e-Hybrid Executive
+Panamera Turbo S e-Hybrid ST
+Parisienne
+Parisienne Wagon
+Phoenix
+Reliant
+Reliant Wagon
+Safari Wagon
+Solstice
+Sunbird
+Sunbird Convertible
+Sunbird Wagon
+Sunburst
+Sundance
+Sundance Convertible
+Sundance/Duster
+Sunfire
+Targa
+Targa Kit
+Taycan 4S Perf Battery Plus
+Taycan Turbo
+Taycan Turbo S
+Torrent AWD
+Torrent FWD
+Trans Sport 2WD
+Turbo 4 911
+Turbo 4 911 Cab
+Turbo 4 911 Kit
+Turbo 4 911 Turbo
+Turbo Firefly
+Turismo
+Vibe
+Vibe AWD
+Voyager 2WD
+Voyager/Grand Voyager 2WD
+Voyager/Grand Voyager 4WD
+Wave
+Wave 5

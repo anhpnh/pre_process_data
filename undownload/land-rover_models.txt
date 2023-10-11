@@ -1,0 +1,63 @@
+E-Pace
+E-Pace MHEV
+E-Pace P300
+F-Pace
+F-Pace P340 MHEV
+F-Pace P400 MHEV
+F-Pace SVR
+F-Type Convertible
+F-Type Coupe
+F-Type P450 AWD R-Dynamic Coupe
+F-Type P450 RWD Convertible
+F-Type P450 RWD Coupe
+F-Type R AWD Convertible
+F-Type R AWD Coupe
+F-Type S AWD Convertible
+F-Type S AWD Coupe
+F-Type S Convertible
+F-Type S Coupe
+F-Type V8 S Convertible
+I-Pace EV400 (20 inch tires)
+S-Type
+S-Type 3.0 Litre
+S-Type 4.2 Litre
+S-Type R
+Super V8
+Vanden Plas
+Vanden Plas S/C
+Vdp Lwb
+XE
+XE AWD
+XF
+XF AWD
+XF FFV
+XF P250
+XF P250 AWD
+XF P300 AWD
+XF Sportbrake AWD
+XJ
+XJ AWD
+XJ FFV
+XJ LWB
+XJ Sport
+XJ12
+XJ6
+XJ8
+XJ8L
+XJL
+XJL AWD
+XJL FFV
+XJR
+XJR 4.2 Litre
+XJS
+XJS Convertible
+XJS Coupe
+XJ-SC
+XK
+XK Convertible
+XK8
+XK8 Convertible
+XKR
+XKR Convertible
+X-Type
+X-Type Sport Brake

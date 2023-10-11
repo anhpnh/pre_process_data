@@ -1,0 +1,288 @@
+2
+222E
+228
+240 DL/240 GL Sedan
+240 DL/240 GL Wagon
+2500 2WD
+3
+3 4-Door
+3 4-Door 2WD
+3 4-Door 4WD
+3 5-Door
+3 5-Door 2WD
+3 5-Door 4WD
+3 DI 4-Door
+3 DI 5-Door
+323
+323 Protege 4x4
+323 Wagon
+323/323 Protege
+430
+5
+57
+570GT
+570S Coupe
+570S Spider
+57S
+6
+6 Sport Wagon
+62
+626
+626/MX-6
+62S
+650S Coupe
+650S Spider
+720S Coupe
+720S Spider
+929
+AMG C63
+Aviator 2WD
+Aviator 4WD
+Aviator AWD
+Aviator PHEV AWD
+Aviator RWD
+B2000
+B2000/B2200 Pickup 2WD
+B2000/B2200/B2600
+B2200/B2600
+B2200/B2600i
+B2300 2WD
+B2300/B3000/B4000 Pickup 2WD
+B2300/B3000/B4000 Pickup 4WD
+B2500
+B2500 2WD
+B2500/B3000/B4000 2WD
+B2500/B3000/B4000 4WD
+B2600 4x4
+B2600i 4x4
+B3000
+B3000 2WD
+B3000 4WD
+B3000 FFV 2WD
+B3000 FFV 4WD
+B4000
+B4000 2WD
+B4000 4WD
+Biturbo
+Biturbo 425
+Biturbo Spyder
+Blackwood 2WD
+C230 Kompressor
+C300 4matic
+Continental
+Continental  AWD
+Continental  FWD
+Continental Coach
+Corsair AWD
+Corsair AWD PHEV
+Corsair FWD
+Coupe and Gransport
+Coupe Cambiocorsa/Coupe GT
+Coupe Cambiocorsa/coupe GT
+Coupe Cambiocorsa/GT/G-Sport
+CT 200h
+CX-3 2WD
+CX-3 4WD
+CX-30 2WD
+CX-30 4WD
+CX-5 2WD
+CX-5 4WD
+CX-50 4WD
+CX-7 2WD
+CX-7 4WD
+CX-9 2WD
+CX-9 4WD
+CX-90 4WD
+E350
+E63 AMG (wagon)
+Elan
+Elise/Exige
+Elise/exige
+ES 250 AWD
+ES 300
+ES 300h
+ES 330
+ES 350
+ES 350 F Sport
+Esprit
+Esprit Turbo
+Esprit Turbo HC PI
+Esprit V8
+Evora
+Evora GT
+Ghibli
+Ghibli  S RWD
+Ghibli  V6 RWD
+Ghibli GT
+Ghibli Modena AWD
+Ghibli Modena RWD
+Ghibli S
+Ghibli SQ4
+Ghibli Trofeo
+Ghibli V6
+Ghibli V6 SQ4
+Ghibli V6 SQ4 AWD
+GLC
+GLC Wagon
+GLC300 4matic
+GLE400 4matic
+GranTurismo
+GranTurismo Convertible
+Grecale GT
+Grecale Modena
+Grecale Trofeo
+GS 300
+GS 300/GS 400
+GS 300/GS 430
+GS 350
+GS 350 AWD
+GS 350 F Sport
+GS 450h
+GS 460
+GS F
+GT
+GX 460
+GX 470
+HS 250h
+IS 200t
+IS 250
+IS 250 AWD
+IS 250/IS 250C
+IS 300
+IS 350
+IS 350 AWD
+IS 350 C
+IS F
+Karif
+LC 500
+LC 500 Convertible
+LC 500h
+Levante
+Levante GT
+Levante GTS
+Levante Modena
+Levante Modena V8
+Levante S
+Levante Trofeo
+London Taxi
+LS
+LS 400
+LS 430
+LS 460
+LS 460 AWD
+LS 460 L
+LS 460 L AWD
+LS 500
+LS 500 AWD
+LS 500h
+LS 500h AWD
+LS 600h L
+LX 450
+LX 470
+LX 570
+LX 600
+Mark LT
+Mark VII
+Mark VIII
+MC20
+Millenia
+MKC AWD
+MKC FWD
+MKS AWD
+MKS FWD
+MKT AWD
+MKT FWD
+MKT Hearse AWD
+MKT Limo AWD
+MKT Livery AWD
+MKT Livery FWD
+MKX AWD
+MKX FWD
+MKZ AWD
+MKZ FWD
+MKZ Hybrid FWD
+MP4-12C Coupe
+MPV
+MPV 4x4
+MX-3
+MX-30
+MX-5
+MX-5 Miata
+MX-6
+Nautilus AWD
+Nautilus FWD
+Navajo
+Navajo 4x4
+Navigator 2WD
+Navigator 2WD FFV
+Navigator 4WD
+Navigator 4WD FFV
+Navigator L 2WD
+Navigator L 4WD
+NX 200t
+NX 200t AWD
+NX 200t AWD F Sport
+NX 250
+NX 250 AWD
+NX 300
+NX 300 AWD
+NX 300 AWD F Sport
+NX 300h AWD
+NX 350h AWD
+NX 450h Plus AWD
+P1
+Protege
+Protege/Protege 5
+Protege/Protege MPS
+Quattroporte
+Quattroporte GT
+Quattroporte GTS
+Quattroporte Modena AWD
+Quattroporte Modena RWD
+Quattroporte S
+Quattroporte SQ4
+Quattroporte SQ4 V6
+Quattroporte Trofeo
+Quattroporte V8
+Quattroporte/QP Sport GT
+RC 200t
+RC 300
+RC 300 AWD
+RC 350
+RC 350 AWD
+RC F
+RX 300
+RX 330 4WD
+RX 350
+RX 350 4WD
+RX 350 AWD
+RX 350 L
+RX 350h AWD
+RX 400h 4WD
+RX 450h
+RX 450h AWD
+RX 450h L AWD
+RX-7
+RX-8
+S500
+S600
+SC
+SC 300/SC 400
+SC 430
+SL550
+Speed 3
+Spider Cambiocorsa/spider GT
+Spider Cambiocorsa/Spider GT
+Spyder
+Spyder Cambiocorsa/GT/90 ANV
+Town Car
+Town Car FFV
+Tribute 2WD
+Tribute 4WD
+Tribute 4WD FFV
+Tribute FWD
+Tribute FWD FFV
+Tribute Hybrid 2WD
+Tribute Hybrid 4WD
+UX 200
+UX 250h AWD

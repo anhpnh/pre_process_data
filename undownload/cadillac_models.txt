@@ -1,0 +1,131 @@
+100
+100 quattro
+100 Wagon
+200
+200 quattro Wagon
+4000
+4000 CS quattro
+4000 S
+4000 S quattro
+4000s
+5000 CS quattro
+5000 CS quattro Wagon
+5000 CS Turbo
+5000 S
+5000 S quattro
+5000S
+5000S Wagon
+80
+80/90
+90
+90 quattro 20v
+A3
+A3 Cabriolet
+A3 Cabriolet quattro
+A3 e-tron
+A3 quattro
+A4
+A4 allroad quattro
+A4 Avant quattro
+A4 Cabriolet
+A4 Cabriolet quattro
+A4 quattro
+A4 S line quattro
+A4 Ultra
+A5 Cabriolet
+A5 Cabriolet quattro
+A5 quattro
+A5 Sportback quattro
+A5 Sportback S line quattro
+A6
+A6 Allroad
+A6 Allroad quattro
+A6 Avant quattro
+A6 quattro
+A6 quattro Wagon
+A7 quattro
+A8
+A8 L
+A8 quattro
+allroad quattro
+Allroad quattro
+Cabriolet
+Coupe GT
+DB11 V12
+DB11 V8
+DB7 Coupe
+DB-7 Vantage Coupe
+DB-7 Vantage Volante
+DB7 Volante
+DB9
+DB9 Coupe
+DB9 Coupe Manual
+DB9 Volante
+DB9 Volante Manual
+DBS
+DBS Coupe
+DBX V8
+e-tron
+e-tron GT
+e-tron quattro
+e-tron S (21/22 inch wheels)
+Lagonda
+Q3
+Q3 quattro
+Q5
+Q5 Sportback S line quattro
+Q7
+Q7 quattro
+Q8
+Quattro
+R8
+R8 AWD
+R8 Coupe RWD
+R8 Spyder
+R8 Spyder AWD
+Rapide
+Rapide S
+RS 3
+RS 5
+RS 5 Coupe
+RS 5 Sportback
+RS 6 Avant
+RS 7
+RS e-tron GT
+RS Q8
+S3
+S4
+S4 Avant
+S4 Cabriolet
+S5
+S5 Cabriolet
+S5 Coupe
+S5 Sportback
+S6
+S7
+S8
+Saloon/Vantage/Volante
+Saloon/vantage/volante
+SQ5
+SQ5 Sportback
+SQ7
+TT Coupe
+TT Coupe quattro
+TT Roadster
+TT Roadster quattro
+TT RS
+TT RS Coupe
+TTS Coupe
+V12 Vanquish S
+V12 Vantage
+V12 Vantage S
+V8
+V8 Vantage
+V8 Vantage S
+Vanquish
+Vanquish S Zagato
+Vantage GT
+Vantage Manual
+Vantage V8
+Virage Saloon
+Virage/Volante

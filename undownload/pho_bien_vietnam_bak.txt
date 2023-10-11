@@ -1,0 +1,80 @@
+Toyota Vios
+Hyundai Accent
+Mitsubishi Xpander
+Ford Ranger
+Honda City
+Mazda CX-5
+Mazda CX-3
+KIA Seltos
+Suzuki XL7
+Nissan Sunny
+Suzuki Ciaz
+Toyota Camry
+Honda Accord
+Mazda 6
+Nissan Teana
+Mercedes-Benz E-class sedan
+Mercedes-Benz C-class sedan
+Kia Morning
+Hyundai Grand I10
+Chevrolet Spark
+Ford Fiesta
+Toyota Yaris
+Mercedes A-class
+Toyota Land Cruiser
+Toyota Fortuner
+Ford Everest
+Mitsubishi Pajero Sport
+Lexus GX 460
+Lexus LX 570
+Honda CR-V
+Honda HR-V
+Hyundai Tucson
+Mitsubishi Outlander
+Kia Rondo
+Kia Carens
+Mitsubishi Grandis
+Toyota Innova
+Audi TT
+Toyota 86
+Hyundai Coupe
+Kia Forte coupe
+Audi A5 Sportback
+Audi A7 Sportback
+BMW 6 series Gran Coupe
+Mazda BT-50
+Toyota Hilux
+Hyundai Grand i10
+Toyota Wigo
+Honda Jazz
+Honda Brio
+Vinfast Fadil
+Mazda 2 sedan
+Ford Fiesta sedan
+Mitsubishi Attrage
+Suzuki Swift
+Ford Fiesta hatchback
+Mazda 2 hatchback
+Mitsubishi Mirage
+Toyota Corolla
+Toyota Altis
+Honda Civic
+Hyundai Elantra
+Chevrolet Cruze
+Mazda 3 sedan
+Kia Cerato
+Ford Focus
+Kia Ceed
+Kia Sportage
+Chevrolet Captiva
+Mitsubishi Outlander Sport
+Suzuki Grand Vitara
+New Mazda2
+Mazda3
+Mazda6
+Mazda CX-30
+Mazda CX-8
+Mazda2 Sport
+Mazda3 Sport
+Mazda BT-50
+Mitsubishi Xforce

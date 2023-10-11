@@ -1,0 +1,345 @@
+124 Spider
+200
+200 AWD
+200 Convertible
+3.2 Mondial/Cabriolet
+300
+300 AWD
+300 M
+300 SRT8
+300/SRT-8
+300C AWD
+300C/SRT-8
+328 GTS/GTB
+348 TB/TS
+360 Modena/Modena F1
+360 Modena/Spider
+360 Modena/Spider/Challenge
+456 MGT/MGA
+458 Italia
+458 Italia Coupe
+458 Italia Spider
+458 Speciale
+458 Speciale Spider
+458 Spider
+488 GTB
+488 Pista
+488 Pista Spider
+488 Spider
+500
+500 Abarth
+500 L
+500 X
+500 X AWD
+500e
+500X AWD
+550 Maranello
+575
+575 M Maranello
+575 M Maranello and Superamerica
+599 GTB
+599 GTB Fiorano
+600
+600 Convertible
+612 Scaglietti
+812 Competizione
+812 Competizione A
+812 GTS
+812 Superfast
+AD100/AD150 Ramcharger 2WD
+Aerostar Van
+Aerostar Wagon
+Aerostar Wagon AWD
+Aries
+Aries Wagon
+Aspen 2WD
+Aspen 4WD
+Avenger
+AW100/AW150 Ramcharger 4WD
+B150/B250 Van 2WD
+B150/B250 Wagon 2WD
+B1500 Van 2WD
+B1500 Wagon 2WD
+B1500/B2500 Van 2WD
+B1500/B2500 Wagon 2WD
+B2500 Van 2WD
+B2500 Wagon 2WD
+B350 Van 2WD
+B350 Wagon 2WD
+B3500 Van 2WD
+B3500 Wagon 2WD
+Bronco 4WD
+Bronco Badlands 4WD
+Bronco II 4WD
+Bronco Sport 4WD
+Caliber
+California
+California T
+Caravan C/V/Grand Caravan 2WD
+Caravan/Grand Caravan 2WD
+Caravan/Grand Caravan 4WD
+Caravan/Grand Caravan AWD
+Caravan/Grand Caravan FWD
+Caravan/Grand Caravan/Ram Van 2WD
+Caravan/Ram Van 2WD
+Challenger
+Challenger AWD
+Challenger GT
+Challenger SRT
+Challenger SRT Widebody
+Challenger SRT8
+Challenger Widebody
+Charade
+Charger
+Charger AWD
+Charger GLH-S
+Charger SRT
+Charger SRT Widebody
+Charger SRT8
+Charger Widebody
+Cirrus
+C-MAX Energi Plug-in Hybrid
+C-MAX Hybrid FWD
+CODA
+Colt
+Colt Vista
+Colt Vista 4WD
+Colt Wagon
+Colt Wagon 4WD
+Concorde
+Concorde/LHS
+Conquest
+Consulier GTP
+Contour
+Courier
+Crossfire
+Crossfire Coupe
+Crossfire Roadster
+Crown Victoria Police
+CX 25 GTI
+CX 25Tri
+Cxestate
+D100/D150 Pickup 2WD
+D250 Cab Chassis 2WD
+D250 Pickup 2WD
+Dakota Cab Chassis 2WD
+Dakota Pickup 2WD
+Dakota Pickup 4WD
+Dart
+Dart Aero
+Dart GT
+Daytona
+Daytona SP3
+Diplomat
+Durango 2WD
+Durango 4WD
+Durango AWD
+Durango RWD
+Durango SRT AWD
+Dynasty
+E Class/New Yorker
+E150 Club Wagon
+E150 Econoline 2WD
+E150 Van FFV
+E150 Wagon FFV
+E250 Econoline 2WD
+E250 Van FFV
+E350 Wagon FFV
+Eagle
+EcoSport FWD
+Edge AWD
+Edge FWD
+Escape 2WD
+Escape 4WD
+Escape AWD
+Escape AWD HEV
+Escape FWD
+Escape Hybrid 4WD
+Escape Hybrid FWD
+Escort
+Escort Wagon
+Escort ZX2
+Executive Sedan/Limousine
+EXP
+Expedition 2WD
+Expedition 4WD
+Expedition MAX 2WD
+Explorer 2WD
+Explorer 2WD FFV
+Explorer 4WD
+Explorer 4WD FFV
+Explorer AWD
+Explorer HEV RWD
+Explorer RWD
+Explorer Sport Trac 4WD
+F12
+F12 Berlinetta
+F12 tdf
+F141
+F150 2WD BASE PAYLOAD LT TIRE
+F150 Dual-fuel 4WD (CNG)
+F150 Pickup 2WD
+F150 Pickup 2WD FFV
+F150 Pickup 4WD
+F150 Pickup 4WD FFV
+F150 RAPTOR 37 4WD
+F250 Pickup 2WD
+F250 Pickup 4WD
+F355/355 F1
+F40
+F430
+F60 America
+F8 Spider
+F8 Tributo
+Ferrari 348 TB/TS/Spider
+Ferrari 456
+Ferrari 456 GT/GTA
+Ferrari 512 TR
+Ferrari F355 Berlinetta/GTS
+Ferrari F355/355 F1
+Ferrari Mondial T/Cabriolet
+FF
+Fiesta
+Fiesta FWD
+Fifth Avenue/Imperial
+Focus
+Focus Electric
+Focus FWD
+Focus FWD FFV
+Focus Station Wagon
+Freestar Cargo Van FWD
+Fusion AWD
+Fusion FWD
+Fusion FWD FFV
+Grand Caravan
+GT
+GTC4Lusso
+GTC4Lusso T
+Hornet AWD
+Imperial/New Yorker Fifth Avenue
+Intrepid
+Journey
+Journey  2WD
+Journey AWD
+Journey FWD
+JX/JXI/Limited Convertible
+Kalos
+Lacetti
+Lancer
+Lancer Convertible
+Lanos
+Laser
+Laser/Daytona
+LeBaron
+LeBaron Convertible
+LeBaron GTS
+Leganza
+LHS
+LTD
+LTD Crown Victoria
+Magnum
+Magnum 2WD
+Magnum AWD
+Medallion Sedan
+Medallion Wagon
+Monaco
+Mondial T/Cabriolet
+Mustang
+Mustang Convertible
+Mustang HO Convertible
+Neon
+Neon/SRT-4/SX 2.0
+New Yorker
+New Yorker Fifth Avenue/Imperial
+New Yorker/LHS
+Newport/Fifth Avenue
+Nitro 2WD
+Nitro 4WD
+Nubira
+Nubira Station Wagon
+Nubira Wagon
+Omni
+Pacifica
+Pacifica 2WD
+Pacifica AWD
+Pacifica FWD
+Pacifica Hybrid
+Portofino
+Portofino M
+Power Ram 50 4WD
+Power Ram 50 Pickup 4WD
+Power Ram50 4WD
+Premier
+Probe
+PT Cruiser
+PT Cruiser Convertible
+Raider
+Raider 4WD
+Ram 1500 Pickup 2WD
+Ram 1500 Pickup 4WD
+Ram 2500 Pickup 2WD
+Ram 2500 Pickup 4WD
+Ram 50 Pickup 2WD
+Ram Van 1500 2WD
+Ram Van 2500 2WD
+Ram Van 2500 2WD CNG
+Ram Wagon 1500 2WD
+Ram Wagon 2500 2WD
+Ram Wagon 2500 2WD CNG
+Ramcharger 2WD
+Ramcharger 4WD
+Rampage Pickup 2WD
+Ranger 2WD
+Ranger Pickup 2WD
+Ranger Pickup 4WD
+Renault Medallion Sedan
+Renault Medallion Wagon
+Rocky 4WD
+Roma
+Sebring
+Sebring 4 Door
+Sebring Convertible
+Series 1
+Shadow
+Shadow Convertible
+Spirit
+Stealth
+Stratus
+Stratus 4 Door
+Summit
+Summit Wagon
+Talon
+Taurus
+Taurus AWD
+Taurus FWD
+Taurus FWD FFV
+Taurus SHO
+Taurus Wagon
+Taurus X FWD
+TC By Convertible
+Tempo
+Testarossa
+Thunderbird
+Town and Country
+Town and Country 2WD
+Town and Country 4WD
+Town and Country Wagon
+Town and Country/Voyager/Grand Voy. 2WD
+Town and Country/Voyager/Grand Voy. AWD
+Transit Connect Van 2WD
+Transit Connect Wagon LWB FWD
+Transit T150 Wagon 4WD FFV
+Viper
+Viper Convertible
+Viper Coupe
+Viper SRT
+Vision
+Voyager
+Voyager/Town and Country 2WD
+W100/W150 Pickup 4WD
+W250 Pickup 4WD
+WB
+Windstar FWD Cargo Van
+XM v6
+XM v6 Break
+XM v6a

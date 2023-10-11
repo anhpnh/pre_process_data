@@ -1,0 +1,56 @@
+300SL
+Amigo 2WD
+Amigo 4WD
+Ascender 5-passenger 2WD
+Ascender 7-passenger 2WD
+Ascender 7-passenger 4WD
+Axiom 2WD
+Axiom 4WD
+BMW535I
+BMW635CSI
+BMW635L6
+BMW735I
+BMW735IL
+F-Type Convertible
+F-Type Coupe
+F-Type P450 RWD Convertible
+Hombre Pickup 2WD
+Hombre Pickup 2WD (FFV)
+i-280 Extended Cab 2WD
+i-290 Extended Cab 2WD
+i-370 Extended Cab 2WD
+I-Mark
+Impulse
+MERC BENZ 300CE
+MERC BENZ 300E
+MERC BENZ 300SE
+MERC BENZ 300SEL
+MERC BENZ 300TE
+Oasis
+Pickup 2WD
+Pickup 2WD 1-Ton
+Pickup 4WD
+Rodeo 2WD
+Rodeo 4WD
+Rodeo Sport 2WD
+Rodeo Sport 4WD
+Stylus
+S-Type
+Super V8
+Testarossa
+Trooper
+Trooper 2WD
+Trooper 4WD
+Vehicross
+XF
+XJ
+XJ8l
+XJ8L
+XJL
+XJS
+XJS Convertible
+XJS Coupe
+XK
+XK Convertible
+XKR
+X-Type

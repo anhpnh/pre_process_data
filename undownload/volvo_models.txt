@@ -1,0 +1,150 @@
+240
+240 DL/240 GL
+240 DL/240 GL Wagon
+240 DL/GL/Turbo
+240 DL/GL/turbo
+240 DL/GL/Turbo Wagon
+240 DL/GL/turbo Wagon
+240 Wagon
+740
+740 16-Valve Wagon
+740 Wagon
+740/760
+740/760 Wagon
+760
+760 GLE
+760 Wagon
+780
+850
+850 Wagon
+940
+940 Wagon
+960
+960 Wagon
+Arteon
+Arteon 4motion
+Atlas
+Atlas 4motion
+Atlas Cross Sport
+Atlas Cross Sport 4motion
+Beetle
+Beetle Convertible
+C30 FWD
+C40 Recharge twin
+C70
+C70 Convertible
+C70 Coupe
+C70 FWD
+Cabrio
+Cabriolet
+CC
+CC 4motion
+Coupe
+Eos
+Eurovan
+Eurovan Camper
+Fox
+GLI
+Golf
+Golf Alltrack
+Golf R
+Golf SportWagen 4motion
+Golf/GTI
+Golf-R
+GTI
+GTI VR6
+ID.4 AWD Pro
+Jetta
+Jetta GLI 16v
+Jetta Hybrid
+Jetta SportWagen
+Jetta Wagon
+New Beetle
+New Beetle Convertible
+New Golf
+New Jetta
+Passat
+Passat 4motion
+Passat Wagon
+Passat Wagon 4motion
+Passat Wagon Syncro
+Phaeton
+Quantum
+Quantum Syncro Wagon
+Quantum Wagon
+R32
+Rabbit
+Rabbit Convertible
+Routan
+S40 AWD
+S40 FWD
+S60
+S60 AWD
+S60 AWD PHEV
+S60 B5
+S60 B5 AWD
+S60 CC AWD
+S60 FWD
+S60 Inscription AWD
+S60 Inscription FWD
+S60 PoleStar AWD
+S60 Polestar AWD
+S60 R AWD
+S60 T8 AWD Recharge
+S70
+S70 AWD
+S80
+S80 AWD
+S80 FWD
+S80/S80 Executive
+S80/S80 Premier
+S90 AWD
+S90 AWD PHEV
+S90 B6 AWD
+S90 FWD
+S90 T8 AWD Recharge ext. Range
+Scirocco
+Taos
+Tiguan
+Tiguan 4motion
+Tiguan R-Line 4motion
+Touareg
+Touareg Hybrid
+V40
+V50 AWD
+V50 FWD
+V60 AWD
+V60 AWD PHEV
+V60 CC AWD
+V60 FWD
+V60 PoleStar AWD
+V60 Polestar AWD
+V60 T8 AWD Recharge ext. Range
+V60CC B5 AWD
+V70 AWD
+V70 FWD
+V70 R AWD
+V70 XC AWD
+V90 AWD
+V90 CC AWD
+V90 FWD
+V90CC B6 AWD
+Vanagon/Camper 2WD
+XC40 AWD
+XC40 B5 AWD
+XC40 FWD
+XC40 Recharge twin
+XC60 AWD
+XC60 AWD PHEV
+XC60 B5
+XC60 B5 AWD
+XC60 B6 AWD
+XC60 FWD
+XC70 AWD
+XC70 FWD
+XC90 AWD
+XC90 AWD PHEV
+XC90 B5 AWD
+XC90 B6 AWD
+XC90 FWD
+XC90 T8 AWD Recharge

@@ -1,0 +1,43 @@
+200SX
+240SX
+300ZX
+300ZX 2x2
+350z
+350z Roadster
+370Z Roadster
+Altima
+Altima / Stanza
+Altima AWD
+Altima Coupe
+Altima SR
+Altima SR/Platinum
+Armada 2WD
+Axxess AWD
+Cube
+Frontier 2WD
+Frontier 4WD
+Frontier V6 2WD
+Frontier V6 4WD
+Juke
+Maxima
+Murano AWD
+Murano FWD
+Pathfinder 2WD
+Pathfinder 4WD
+Pulsar NX
+Quest
+Rogue AWD
+Rogue FWD
+Sentra
+Sentra Coupe
+Sentra Wagon
+Sentra/200SX
+Stanza
+Stanza Wagon 2WD
+Truck 2WD
+Truck 4WD
+Truck 4WD (new Version)
+Versa
+Xterra 2WD
+Xterra 4WD
+Xterra V6 4WD

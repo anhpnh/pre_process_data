@@ -1,0 +1,108 @@
+Cherokee 2WD
+Cherokee 4WD
+Cherokee 4WD Active Drive II
+Cherokee FWD
+Cherokee Trailhawk 4WD
+Cherokee/Wagoneer
+Cherokee/Wagoneer 2WD
+Cherokee/Wagoneer 4WD
+CJ7
+CJ7 4WD
+Comanche 2WD
+Comanche 4WD
+Comanche Pickup 2WD
+Comanche Pickup 4WD
+Commander 2WD
+Commander 4WD
+Compass 2WD
+Compass 4WD
+Compass FWD
+E-Pace
+F-Pace
+F-Pace P340 MHEV
+F-Pace P400 MHEV
+F-Type Convertible
+F-Type Coupe
+F-Type P450 AWD R-Dynamic Convertible
+F-Type P450 RWD Coupe
+F-Type R AWD Convertible
+F-Type R AWD Coupe
+F-Type S Convertible
+F-Type S Coupe
+Gladiator 4WD
+Gladiator EcoDiesel 4WD
+Gladiator Pickup 4WD
+Grand Cherokee 2WD
+Grand Cherokee 4WD
+Grand Cherokee 4xe
+Grand Cherokee L 2WD
+Grand Cherokee L 4WD
+Grand Cherokee SRT 4WD
+Grand Cherokee Trackhawk 4WD
+Grand Cherokee TrackHawk 4WD
+Grand Wagoneer
+Grand Wagoneer 2WD
+Grand Wagoneer 4WD
+Grand Wagoneer L 4WD
+I-Pace
+I-Pace EV400 (22 inch tires)
+J-10 Pickup 4WD
+J-10 Pickup Truck
+J-20 Pickup Truck
+Liberty 2WD
+Liberty 4WD
+Liberty/Cherokee 2WD
+Liberty/Cherokee 4WD
+New Compass 4WD
+New Wrangler 4WD
+New Wrangler Unlimited 4WD
+Patriot 2WD
+Patriot 4WD
+Patriot FWD
+Renegade 2WD
+Renegade 4WD
+Renegade Trailhawk 4WD
+Scrambler
+Scrambler Pickup 4WD
+S-Type 3.0 Litre
+S-Type 4.2 Litre
+S-Type R
+Super V8
+Vanden Plas
+Vdp Lwb
+Wagoneer 2WD
+Wagoneer 4WD
+Wagoneer L 2WD
+Wagoneer L 4WD
+Wrangler 2dr 4WD
+Wrangler 2WD
+Wrangler 4dr 4WD
+Wrangler 4dr EcoDiesel 4WD
+Wrangler 4WD
+Wrangler Rubic 4dr EcoDiesel 4WD
+Wrangler Unlimited 4WD
+Wrangler/TJ 4WD
+XE
+XF
+XF P250 AWD
+XF Sportbrake AWD
+XJ
+XJ AWD
+XJ FFV
+XJ LWB
+XJ6
+XJ8
+XJ8 4.2 Litre
+XJ8L
+XJR
+XJS Convertible
+XJS Coupe
+XJS V12 Coupe
+XK
+XK Convertible
+XK8
+XK8 Convertible
+XKR
+XKR Convertible
+X-Type
+X-Type Sport Brake

@@ -1,0 +1,198 @@
+500SE
+500SEL
+500SL
+Aerio
+Aerio AWD
+Aerio SX
+Arteon
+Arteon 4motion
+Atlas
+Atlas 4motion
+Atlas Cross Sport
+Atlas Cross Sport 4motion
+Avtech SC / M12
+Beetle
+Beetle Convertible
+Beetle Dune
+Beetle Dune Convertible
+Cabrio
+Cabriolet
+CC
+CC 4motion
+Corrado
+Corrado SLC
+e-Golf
+Eos
+Equator 2WD
+Equator 4WD
+Esteem
+Esteem Wagon
+Eurovan
+Eurovan Camper
+Forenza
+Forenza Wagon
+Forsa Turbo
+Fox
+Fox Wagon
+GLI
+Golf
+Golf Alltrack
+Golf III
+Golf III / GTI
+Golf R
+Golf SportWagen
+Golf SportWagen 4motion
+Golf/GTI
+Golf-R
+Grand Vitara
+Grand Vitara 4Door 2WD
+Grand Vitara 4Door 4WD
+Grand Vitara 4WD
+Grand Vitara AWD
+Grand Vitara XL7
+Grand Vitara XL7 4WD
+GTI
+GTI 16v
+GTI VR6
+GTI/Golf GT
+ID.4 AWD Pro
+ID.4 AWD Pro S
+ID.4 Pro
+ID.4 Pro S
+Jetta
+Jetta GLI
+Jetta GLI 16v
+Jetta GLI/Wolfsburg Edition
+Jetta GLX
+Jetta Hybrid
+Jetta III
+Jetta III GLX
+Jetta Sport/SE/SEL
+Jetta SportWagen
+Jetta Wagon
+Kizashi
+Kizashi AWD
+Kizashi S
+Kizashi S AWD
+Model 3 Long Range
+Model 3 Long Range AWD
+Model 3 Mid Range
+Model 3 Performance AWD
+Model 3 RWD
+Model 3 Standard Range
+Model 3 Standard Range Plus
+Model S
+Model S (60 kW-hr battery pack)
+Model S (75 kW-hr battery pack)
+Model S (85 kW-hr battery pack)
+Model S (90 kW-hr battery pack)
+Model S 100D
+Model S 75D
+Model S AWD - 60D
+Model S AWD - 70D
+Model S AWD - 75D
+Model S AWD - 85D
+Model S AWD - 90D
+Model S AWD - P100D
+Model S AWD - P85D
+Model S AWD - P90D
+Model S Long Range
+Model S P100D
+Model S Performance (19in Wheels)
+Model S Performance (21in Wheels)
+Model S Standard Range
+Model X
+Model X 100D
+Model X 75D
+Model X AWD - 60D
+Model X AWD - 75D
+Model X AWD - 90D
+Model X AWD - P100D
+Model X AWD - P90D
+Model X Long Range
+Model X Long Range Plus
+Model X P100D
+Model X Performance (20in Wheels)
+Model X Performance (22in Wheels)
+Model X Plaid (20 inch wheels)
+Model X Plaid (22 inch wheels)
+Model Y AWD
+Model Y Long Range AWD
+Model Y Performance AWD
+New Beetle
+New Beetle Convertible
+New Golf
+New GTI
+New Jetta
+Passat
+Passat 4motion
+Passat Syncro
+Passat Wagon
+Passat Wagon 4motion
+Passat Wagon Syncro
+Phaeton
+Quantum
+Quantum Syncro Wagon
+Quantum Wagon
+Rabbit
+Rabbit Convertible
+Reno
+Routan
+Routan FWD
+Samurai Convertible
+Samurai Soft-top 4WD
+Scirocco
+Scirocco 16v
+Sidekick 2Door 2WD
+Sidekick 2Door 4WD
+Sidekick 2Door RWD
+Sidekick 2WD
+Sidekick 4Door 2WD
+Sidekick 4Door 4WD
+Sidekick 4Door RWD
+Sidekick Convertible 4WD
+Sidekick Hardtop 2WD
+Sidekick Hardtop 4WD
+Sidekick Soft-top 4WD
+Sidekick Sport 2WD
+Sidekick Sport 4WD
+Sidekick Sport RWD
+SJ 410 4WD
+SJ 410V 4WD
+SW
+Swift
+Swift GT
+Swift x
+SX4
+SX4 AWD
+SX4 Sedan
+SX4 Sport
+SX4 Sport/Anniversary Edition
+Taos
+Taos 4motion
+Tiguan
+Tiguan 4motion
+Tiguan R-Line 4motion
+Tiguan S
+Touareg
+Touareg Hybrid
+Truck 2WD
+Truck 4WD
+Vanagon 2WD
+Vanagon Syncro 4WD
+Vanagon/Camper 2WD
+Verona
+Vitara 2 Door
+Vitara 2 Door 4WD
+Vitara 2Door
+Vitara 2Door 2WD
+Vitara 2Door 4WD
+Vitara 4 Door
+Vitara 4 Door 4WD
+Vitara 4Door 2WD
+Vitara 4Door 4WD
+W8
+X-90 2WD
+X-90 4WD
+X-90 RWD
+XL7 FWD

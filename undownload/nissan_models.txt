@@ -1,0 +1,162 @@
+200SX
+240SX
+3000 GT
+3000 GT Spyder
+300ZX
+300ZX 2x2
+350z
+350z Roadster
+370z
+370Z
+370Z Roadster
+Altima
+Altima Coupe
+Altima SR
+Armada 2WD
+Armada 2WD FFV
+Armada 4WD
+Axxess AWD
+Clubman
+Clubman S
+Cooper
+Cooper (5-doors)
+Cooper Clubman
+Cooper Clubman All4
+Cooper Clubvan
+Cooper Convertible
+Cooper Countryman
+Cooper Countryman All4
+Cooper Countryman Coupe
+Cooper Coupe
+Cooper Hardtop 2 door
+Cooper Hardtop 4 door
+Cooper Paceman
+Cooper Roadster
+Cooper S
+Cooper S (3-doors)
+Cooper S Clubman
+Cooper S Clubman All4
+Cooper S Convertible
+Cooper S Countryman
+Cooper S Countryman All4
+Cooper S Countryman Coupe
+Cooper S Coupe
+Cooper S Hardtop 2 door
+Cooper S Hardtop 4 door
+Cooper S Paceman
+Cooper S Paceman All4
+Cooper S Roadster
+Cooper SE Hardtop 2 door
+Cordia
+Cube
+Diamante
+Diamante Sedan
+Diamante Wagon
+Eclipse
+Eclipse Convertible
+Eclipse Cross 2WD
+Eclipse Cross 4WD
+Eclipse Cross ES 2WD
+Eclipse Cross ES 4WD
+Eclipse Spyder
+Endeavor
+Endeavor 2WD
+Endeavor 4WD
+Endeavor AWD
+Expo
+Expo.LRV
+Frontier 2WD
+Frontier 4WD
+Frontier 4WD FFV
+Frontier V6 2WD
+Frontier V6 4WD
+Galant
+Galant Sigma
+GT-R
+i-MiEV
+JCW Countryman All4
+JCW Countryman Coupe All4
+JCW Paceman All4
+John Cooper Works
+John Cooper Works Clubman
+John Cooper Works Clubman All4
+John Cooper Works Convertible
+John Cooper Works Coupe
+John Cooper Works Hardtop
+John Cooper Works Hardtop 2 door
+John Cooper Works Roadster
+Juke
+Juke AWD
+Juke Nismo RS AWD
+Kicks
+Lancer
+Lancer 4WD
+Lancer AWD
+Lancer Evolution
+Lancer Sportback
+Leaf
+Leaf SV/SL (62 kW-hr battery pack)
+Maxima
+Maxima Wagon
+Mirage
+Mirage G4
+Mirage Wagon
+Montero
+Montero 4WD
+Montero Sport 2WD
+Montero Sport 4WD
+Murano AWD
+Murano FWD
+MV-1
+Nativa 2WD
+Nativa 2WD (Puerto Rico Only)
+Nativa 2WD(Puerto Rico Only)
+Nativa 4WD
+Nativa 4WD (Puerto Rico Only)
+NV200 Cargo Van
+Outlander 2WD
+Outlander 4WD
+Outlander PHEV
+Outlander Sport 2WD
+Outlander Sport 4WD
+Pathfinder 2WD
+Pathfinder 4WD
+Pathfinder 4WD Platinum
+Pathfinder Van (cargo)
+Pickup 2WD
+Pickup 4WD
+Pickup Cab Chassis
+Plus Eight
+Precis
+Pulsar NX
+Quest
+Raider Pickup 2WD
+Raider Pickup 4WD
+Rogue AWD
+Rogue AWD SL/Platinum
+Rogue FWD
+Rogue Select FWD
+Sentra
+Sentra Coupe
+Sentra Wagon
+Sentra/200SX
+Sigma
+Space Wagon
+Stanza
+Stanza Wagon 2WD
+Starion
+Titan 2WD
+Titan 4WD
+Titan 4WD PRO4X
+Tredia
+Truck 2WD
+Truck 2WD (new Version)
+Truck 4WD
+Truck Cab Chassis 2WD
+Van
+Versa
+Wagon
+Xterra 2WD
+Xterra 4WD
+Xterra V6 2WD
+Xterra V6 4WD

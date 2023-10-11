@@ -1,0 +1,211 @@
+Amanti
+Aventador Coupe
+Aventador Roadster
+Aventador Sian Coupe
+Aventador Sian Roadster
+Borrego 2WD
+Borrego 4WD
+Cadenza
+Carnival
+Countach
+Countach Lp500s
+DB132/144 Diablo
+DB132/Diablo
+Defender 110
+Defender 110 MHEV
+Defender 130 P300 MHEV
+Defender 130 P400 MHEV
+Defender 90
+Defender 90 MHEV
+Discovery
+Discovery MHEV
+Discovery Series II
+Discovery Sport
+ES 250
+ES 250 AWD
+ES 300
+ES 300h
+ES 350
+ES 350 F Sport
+EV6 AWD GT
+EV6 Long Range RWD
+EV6 Standard Range RWD
+Evoque
+Forte
+Forte 5
+Forte Eco
+Forte FE
+Forte Koup
+Freelander
+Gallardo Coupe
+Gallardo Coupe SL
+Gallardo Spyder
+GS 200t
+GS 200t F Sport
+GS 300
+GS 300 F Sport
+GS 300/GS 400
+GS 300/GS 430
+GS 350
+GS 350 AWD
+GS 450h
+GS 460
+GS F
+GX 460
+GX 470
+HS 250h
+Huracan
+Huracan 2WD
+Huracan Coupe
+Huracan Coupe 2WD
+Huracan Spyder
+Huracan Spyder 2WD
+IS 250
+IS 250 AWD
+IS 250 C
+IS 250/IS 250C
+IS 300
+IS 300 AWD
+IS 350
+IS 350 AWD
+IS 350/IS 350C
+IS 500
+IS F
+K5
+K5 AWD
+K900
+L-140/141 Gallardo
+L-140/715 Gallardo
+L-147 Murcielago
+L-147/148 Murcielago
+Laforza
+LC 500
+LC 500h
+LR2
+LR3
+LR4
+LS 400
+LS 430
+LS 460
+LS 460 AWD
+LS 460 L
+LS 460 L AWD
+LS 500
+LS 500 AWD
+LS 500h
+LS 500h AWD
+LS 600h L
+LX 470
+LX 570
+Murcielago
+Murcielago Roadster
+New Range Rover
+New Range Rover LWB
+New Range Rover P360 LWB MHEV
+New Range Rover P360 MHEV
+New Range Rover P400 LWB MHEV
+New Range Rover P400 MHEV
+Niro
+Niro Electric
+Niro FE
+Niro Plug-in Hybrid
+Niro Touring
+NX 300
+NX 300 AWD
+NX 300 AWD F Sport
+NX 300h AWD
+NX 350 AWD
+NX 350h AWD
+Optima
+Optima (2006 New Model)
+Optima FE
+Optima Hybrid
+Optima Hybrid EX
+Optima Plug-in Hybrid
+Range Rover
+Range Rover County
+Range Rover County LWB
+Range Rover Evoque
+Range Rover Evoque Convertible
+Range Rover Evoque MHEV
+Range Rover FFV
+Range Rover L FFV
+Range Rover LWB
+Range Rover LWB SVA
+Range Rover MHEV
+Range Rover PHEV
+Range Rover Sport
+Range Rover Sport FFV
+Range Rover Sport MHEV
+Range Rover Sport PHEV
+Range Rover Sport SVR
+Range Rover SVA
+Range Rover Velar
+Range Rover Velar P340 MHEV
+Range Rover Velar P400 MHEV
+RC 300
+RC 300 AWD
+RC 350
+RC 350 AWD
+RC F
+Regera
+Rio
+Rio Eco
+Rondo
+RX 300
+RX 300 4WD
+RX 330 2WD
+RX 330 4WD
+RX 350
+RX 350 2WD
+RX 350 AWD
+RX 350 L
+RX 350 L AWD
+RX 400h 2WD
+RX 400h 4WD
+RX 450h
+RX 450h AWD
+RX 450h L AWD
+RX 500h AWD
+SC
+SC 300/SC 400
+SC 300/SC 430
+SC 430
+Sedona
+Sedona SX
+Sedona SXL
+Seltos AWD
+Seltos FWD
+Sephia
+Sephia/Spectra
+Sorento 2WD
+Sorento 4WD
+Sorento AWD
+Sorento FE AWD
+Sorento FWD
+Sorento Hybrid AWD
+Sorento Hybrid FWD
+Soul
+Soul Eco
+Soul ECO dynamics
+Soul Eco dynamics
+Soul Electric
+Spectra
+Spectra 1.8L
+Spectra 2.0L
+Sportage 2WD
+Sportage 4WD
+Sportage AWD
+Sportage FE AWD
+Sportage FE FWD
+Sportage FWD
+Sportage SX AWD
+Stinger AWD
+Stinger RWD
+Telluride AWD
+Telluride FWD
+Urus
+Urus Performante
+Urus S
+UX 250h
+UX 250h AWD
